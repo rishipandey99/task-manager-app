@@ -114,7 +114,8 @@ npm start
 ---<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/274b2779-efd6-4c5a-b17e-aba652f51cb2" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/df6c7c65-0b6a-429a-ba6c-cfece43e0a4b" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0d471755-97f0-4a3f-b0a1-ccdf70212ced" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e2e616d3-1d00-4003-8729-bbc7b6c2bbe1" />
+
 
 ## 🚀 Deployment
 
